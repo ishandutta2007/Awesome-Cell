@@ -103,3 +103,14 @@ Star the repo if you find it useful!
 
 **Made for computational biologists, systems biologists, and biomedical researchers.**  
 Let's make multi-scale cellular modeling more accessible, reproducible, and extensible.
+
+
+## Star History
+
+<a href="https://www.star-history.com/?repos=ishandutta2007%2FAwesome-Cell&type=date&legend=bottom-right">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-Cell&type=date&theme=dark&legend=bottom-right" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-Cell&type=date&legend=bottom-right" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-Cell&type=date&legend=bottom-right" />
+ </picture>
+</a>
